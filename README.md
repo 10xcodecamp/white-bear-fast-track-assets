@@ -8,6 +8,19 @@ Download the icons and images and place them into your `icons` and `images` fold
 
 Review the screenshots in the `screenshots` folder. Try to match the mockups but watch the video for this project where I explain that sometimes it is okay to deviate from the mockups in the interest of releasing code faster.
 
+## Fonts
+
+You won't have to import these, but just to verify in your browser console, here are the fonts that are used in this application:
+
+#### Noto Sans
+Standard font for all application elements.
+
+#### Noto Serif
+Font for the text on the study cards.
+
+#### Fira Sans
+Font for the brand text next to the logo.
+
 ## Font sizes and structure of HTML elements
 
 `<h1>` - White Bear logo text on the landing page
